@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007442473387",
+    "project_id": "jesusfamily-69de7",
+    "storage_bucket": "jesusfamily-69de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007442473387:android:48a006d89dea0fda4322ee",
+        "android_client_info": {
+          "package_name": "com.example.jfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007442473387-6kaeedacc0co3esnjsbml2j0ljmjqmk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jfg",
+            "certificate_hash": "980b31306928108a81d325bbd44538482899baf1"
+          }
+        },
+        {
+          "client_id": "1007442473387-k13kg7bbjbt13pv57j6e37ugmer9l173.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAathDCAhDJ5SW8nk5wU85XynBb5H1TFfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007442473387-k13kg7bbjbt13pv57j6e37ugmer9l173.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
